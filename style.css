@@ -1,0 +1,45 @@
+* {
+    background-color: rgb(129, 188, 218);
+    
+}
+
+h1 {
+    color: rgb(211, 102, 18);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h2 {
+    color: rgb(211, 102, 18);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+    color: rgb(211, 102, 18);
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    color: gold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+ul {
+    color: gold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align-last: left;
+}
+ol {
+    color: gold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align-last: left;
+}
+#one {
+    height: auto;
+    width: 400px;
+}
+#two {
+    height: 250px;
+    width: 400px;
+}
+#three {
+    height: auto;
+    width: 400px;
+}
